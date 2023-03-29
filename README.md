@@ -46,7 +46,7 @@ Lukas Durkin
 Please refer to license in the repo
 
 ## URL
-https://dukelurkin.github.io/password-generator/
+https://dukelurkin.github.io/quiz/
 
 ## Image
 ![image](./quizScreenShot.png)
