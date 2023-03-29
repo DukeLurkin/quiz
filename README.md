@@ -49,6 +49,6 @@ Please refer to license in the repo
 https://dukelurkin.github.io/password-generator/
 
 ## Image
-![image](./image/pwgen.png)
+![image](./quizScreenShot.png)
 
 
