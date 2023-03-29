@@ -1,0 +1,63 @@
+header a {
+    font-family: fantasy;
+    font-size: 24px;
+    color: rgb(67, 0, 148);
+}
+
+header div {
+    font-family: fantasy;
+    float: right;
+    font-size: 24px;
+    color:  rgb(67, 0, 148);
+    margin-right: 10px;
+}
+
+main header {
+    font-family: fantasy;
+    font-size: 22px;
+    color:rgb(179, 0, 255);
+    text-align: center;
+    padding: 5px 0 100px 0;
+}
+
+
+main {
+    border-radius: 50px;
+    max-width: 38%;
+    text-align: center;
+    margin: auto;
+    border: solid;
+    border-width: 5px;
+    border-color: rgb(185, 166, 0);
+    padding: 33px 150px 125px 150px;
+}
+
+#quiz-start-button {
+    padding: 20px;
+    width: 33%;
+    border-radius: 10px;
+    font-family: fantasy;
+    font-size: 14px;
+    color: aliceblue;
+    background-color: rgb(179, 0, 255);
+}
+
+.quiz-buttons {
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    font-family: fantasy;
+    color:aliceblue;
+    font-size: 18px;
+    background-color: rgb(179, 0, 255);
+}
+    
+.high-scores {
+    display: none;
+}
+
+#scoreList {
+    text-decoration: none;
+    list-style: none;
+    min-width: 50%;
+}
